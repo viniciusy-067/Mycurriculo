@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #ccc5c5;
-    background-image: url('C:/Users/vs050/OneDrive/Onedrive/vscode_arquivos/curriculo-site/fundo.jpg'); 
+    background-color: rgba(204, 197, 197, 0.5);
+    background-image: url('https://th.bing.com/th/id/R.8fca5da365633e91008ce4c34778fbac?rik=kosoQ4PwUfn4pQ&pid=ImgRaw&r=0');
     background-size: cover; 
     background-position: center; 
     text-align: center;
@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: #007bff;
+    background-color: #323436;
     color: white;
     padding: 15px;
     border-radius: 10px;
@@ -22,7 +22,7 @@ img {
 }
 
 section {
-    background: white;
+    background: rgb(252, 252, 252);
     padding: 20px;
     margin: 10px auto;
     width: 70%;
