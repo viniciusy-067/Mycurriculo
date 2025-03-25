@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #ccc5c5;
-    background-image: url('curriculo-site/fundo.jpg'); 
+    background-image: url('C:/Users/vs050/OneDrive/Onedrive/vscode_arquivos/curriculo-site/fundo.jpg'); 
     background-size: cover; 
     background-position: center; 
     text-align: center;
@@ -16,16 +16,16 @@ header {
 }
 
 img {
-    width: 190px;
-    border-radius: 50%;
+    width: 200px;
+    border-radius: 70%;
     margin-top: 10px;
 }
 
 section {
     background: white;
-    padding: 15px;
+    padding: 20px;
     margin: 10px auto;
-    width: 60%;
-    border-radius: 10px;
+    width: 70%;
+    border-radius: 20px;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
 }
