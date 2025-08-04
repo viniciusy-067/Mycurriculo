@@ -1,0 +1,11 @@
+Tarefa,Status,Data início,Data conclusão,Horas estimadas,Notas
+Estudar Algoritmos,não iniciada,2025-08-05,,2,Focar em estruturas básicas
+Praticar LeetCode, não iniciada,2025-08-05,,1.5,Resolver problemas nível fácil/médio
+Ler Spring Boot docs,não iniciada,2025-08-06,,0.5,Compreender estrutura básica do framework
+Criar endpoint REST, não iniciada,2025-08-06,,1.5,Implementar POST e GET simples
+Estudar JS DOM,não iniciada,2025-08-07,,0.5,Manipular eventos e elementos
+Praticar UI responsiva,não iniciada,2025-08-07,,1.5,Recriar tela login e dashboard
+Ler Clean Architecture,não iniciada,2025-08-08,,0.5,Entender princípios SOLID e camadas
+Modelar sistema simples,não iniciada,2025-08-08,,1.5,Criar diagramas C4 e ER
+Estudar OWASP Top 10,não iniciada,2025-08-09,,0.5,Conhecer vulnerabilidades web mais comuns
+Fazer lab TryHackMe,não iniciada,2025-08-09,,1.5,Prática em ambiente seguro de testes

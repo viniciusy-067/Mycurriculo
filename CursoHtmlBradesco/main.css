@@ -4,3 +4,32 @@ body {
 ul {
     font-family: helvética;
 }
+li {
+    list-style: circle;
+}
+list{
+    list-style: square;
+}
+#msg {
+    font-family: monospace;
+}
+.light-theme {
+    --bg: var(--green);
+    --fontColor: var(--black)
+}
+ :root {
+    --green:var(--green)
+    --white :var(--white)
+    --black :var(--black)
+}
+.dark-theme {
+    --bg : var (--black);
+    --fontColor: var(--green);
+}
+* {
+    color: var(--fontcolor);
+    font-family: helvetica;
+}
+body {
+    background: var (--bg);
+}
