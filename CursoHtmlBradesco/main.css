@@ -1,35 +1,14 @@
-body {
-     font-family: monospace;
+ root{
+    --green :#00FF00;
+    --white :#ffff;
+    --black :#0000;
 }
-ul {
-    font-family: helvética;
+.light-theme{
+    --bg : var(var(--green));
+    --fontColor : var (var(--black));
 }
-li {
-    list-style: circle;
-}
-list{
-    list-style: square;
-}
-#msg {
-    font-family: monospace;
-}
-.light-theme {
-    --bg: var(--green);
-    --fontColor: var(--black)
-}
- :root {
-    --green:var(--green)
-    --white :var(--white)
-    --black :var(--black)
-}
-.dark-theme {
-    --bg : var (--black);
-    --fontColor: var(--green);
-}
-* {
-    color: var(--fontcolor);
-    font-family: helvetica;
-}
-body {
-    background: var (--bg);
+.dark-theme{
+    --bg : var(var(--black));
+    --fontColor : var (var(--green));
+
 }
